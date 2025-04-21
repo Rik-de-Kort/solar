@@ -1,0 +1,15 @@
+[project]
+name = "solar"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "altair>=5.5.0",
+    "numba>=0.61.2",
+    "pandas>=2.2.3",
+    "tqdm>=4.67.1",
+    "vega-datasets>=0.9.0",
+    "vegafusion[embed]<2",
+    "vl-convert-python>=1.7.0",
+]
