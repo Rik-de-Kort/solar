@@ -10,3 +10,5 @@ wheels/
 .venv
 texas/
 .ipynb_checkpoints
+*.xlsx
+*.json
